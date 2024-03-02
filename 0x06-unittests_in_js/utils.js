@@ -1,4 +1,4 @@
-Utils = {
+const Utils = {
   calculateNumber (type, a, b) {
     const ra = Math.round(a);
     const rb = Math.round(b);
